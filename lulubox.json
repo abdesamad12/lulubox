@@ -103,12 +103,12 @@
       {
         "image": "https://i.snipboard.io/leX0bq.jpg",
         "title": "Lulubox: Download Now...",
-        "guide": "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.",
+        "guide": "WELCOME!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO DISPLAY THE DOWNLOAD BUTTON.",
         "guide 2": "Lulubox is now available on android (google play store) and IOS (app store). Since you are on an android device just click on the Button-Down below.<br />Again, make sure to rate this app 5 stars before you click the button so you can UNLOCK THE DOWNLOAD LINK.",
         "VIP": "true",
         "ID": "3",
 		
-        "show button": "true",
+       "show button": "false",
         "button text": "Download Now",
         "button text size": "17",
         "button URL": ""
@@ -142,12 +142,12 @@
       {
         "image": "https://i.snipboard.io/leX0bq.jpg",
         "title": "Lulubox: Download Now...",
-        "guide": "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.",
+        "guide": "WELCOME!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO DISPLAY THE DOWNLOAD BUTTON.",
         "guide 2": "Lulubox is now available on android (google play store) and IOS (app store). Since you are on an android device just click on the Button-Down below.<br />Again, make sure to rate this app 5 stars before you click the button so you can UNLOCK THE DOWNLOAD LINK.",
         "VIP": "true",
         "ID": "6",
 		
-        "show button": "true",
+       "show button": "false",
         "button text": "Download Now",
         "button text size": "17",
         "button URL": "#"
@@ -155,12 +155,12 @@
       {
         "image": "https://i.snipboard.io/leX0bq.jpg",
         "title": "Lulubox: Download Link 2",
-        "guide": "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.",
+        "guide": "WELCOME!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO DISPLAY THE DOWNLOAD BUTTON.",
         "guide 2": "Lulubox is now available on android (google play store) and IOS (app store). Since you are on an android device just click on the Button-Down below.<br />Again, make sure to rate this app 5 stars before you click the button so you can UNLOCK THE DOWNLOAD LINK.",
         "VIP": "true",
         "ID": "7",
 		
-        "show button": "true",
+       "show button": "false",
         "button text": "Download Link 2",
         "button text size": "17",
         "button URL": "#"
@@ -168,12 +168,12 @@
       {
        "image": "https://i.snipboard.io/leX0bq.jpg",
         "title": "Lulubox: Download Link 3",
-        "guide": "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.",
+        "guide": "WELCOME!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO DISPLAY THE DOWNLOAD BUTTON.",
         "guide 2": "Lulubox is now available on android (google play store) and IOS (app store). Since you are on an android device just click on the Button-Down below.<br />Again, make sure to rate this app 5 stars before you click the button so you can UNLOCK THE DOWNLOAD LINK.",
         "VIP": "true",
         "ID": "8",
 		
-       "show button": "true",
+       "show button": "false",
         "button text": "Download Link 3",
         "button text size": "17",
         "button URL": "#"
