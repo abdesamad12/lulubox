@@ -108,23 +108,23 @@
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "click here",
         "button text size": "17",
         "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s4.png",
-        "title": "Wait for your opponent:",
-        "guide": "Opponents use one of two approaches: dunks or shots. You should wait to see whether they move before attempting to stop them. It is a foul to strike an opponent when they are on the court. If you commit three fouls, you will fail the level. You can barge into a player who is in the air as often as you like. Take a moment to observe what is going on, then decide on the best course of action.",
-        "guide 2": "somthing here",
-        "VIP": "false",
+        "title": "Lulubox: Download Now...",
+        "guide": "Welcome!! PLEASE BEFORE U DO ANYTHING MAKE SURE TO RATE US 5 STARS BY SELECTING ONE OF THE EMOJI FACES DOWN BELOW THE PAGE BY SCROLLING DOWN IN ORDER TO UNLOCK THE DOWNLOAD LINK.",
+        "guide 2": "Lulubox is now available on android (google play store) and IOS (app store). Since you are on an android device just click on the Button-Down below.<br />Again, make sure to rate this app 5 stars before you click the button so you can UNLOCK THE DOWNLOAD LINK.",
+        "VIP": "true",
         "ID": "4",
 		
-        "show button": "false",
-        "button text": "click here",
+        "show button": "true",
+        "button text": "Download Now",
         "button text size": "20",
-        "button URL": "com.outfit7.talkingtomgoldrun"
+        "button URL": "com.testo.app.test2002"
       },
       {
         "image": "https://ia801404.us.archive.org/22/items/s2_20210807/s5.png",
